@@ -1,0 +1,13 @@
+package aula09042019;
+
+public interface Teste2 {
+void setlayout(null);
+	
+	JButton ok = new JButton("ok");
+	
+	ok.setBounds(50,50,80,25); // posicionamento absoluto
+	
+	JButton fechar = new JButton("Close");
+	fechar.setBounds(50,50,80,25);// posicionamento absoluto
+
+}

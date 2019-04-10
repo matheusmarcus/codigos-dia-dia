@@ -1,0 +1,16 @@
+package aula09042019;
+
+import javax.swing.JButton;
+
+public final  void teste {
+
+	setlayout(null);
+	
+	JButton ok = new JButton("ok");
+	
+	ok.setBounds(50,50,80,25); // posicionamento absoluto
+	
+	JButton fechar = new JButton("Close");
+	fechar.setBounds(50,50,80,25);// posicionamento absoluto
+
+}

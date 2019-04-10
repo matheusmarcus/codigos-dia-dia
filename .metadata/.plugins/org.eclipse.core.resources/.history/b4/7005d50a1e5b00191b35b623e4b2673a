@@ -1,0 +1,9 @@
+package aula09042019;
+
+public class Teste {
+
+	public Teste() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

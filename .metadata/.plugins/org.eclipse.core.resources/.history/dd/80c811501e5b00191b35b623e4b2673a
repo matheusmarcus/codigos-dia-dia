@@ -1,0 +1,9 @@
+package aula09042019;
+
+public class JButton {
+
+	public JButton() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

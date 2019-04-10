@@ -1,0 +1,5 @@
+package aula09042019;
+
+public interface Teste2 {
+
+}
